@@ -136,8 +136,10 @@ Why are some FastEthernet ports on the switches up while others are down?
 The FastEthernet ports are up when cables are connected to the ports unless they were manually shutdown by the administrators. Otherwise, the ports would be down.
 </span>
 
+
 What could prevent a ping from being sent between the PCs?
 
 <span style="color:yellow">
 Wrong IP address, media disconnected, switch powered off or ports administratively down, firewall.
 </span>
+
