@@ -11,3 +11,5 @@ To *open* files with laboratory work, you need to download a [**Cisco Packet Tra
 4. Open lab inside the app
 
 **Descriptions** contain laboratory tasks with step-by-step instructions.
+
+The **'code'-file** contains only the code, which you need write by yourself, and which not describe in the  *.docs* file.
